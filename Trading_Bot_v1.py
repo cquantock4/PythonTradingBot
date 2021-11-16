@@ -27,8 +27,8 @@ import logging
 #logging.basicConfig(filename=r'C:\Users\codyq\PythonScripts\TradingBot_v1\testing.log', encoding='utf-8', level=logging.DEBUG)
 
 #Paper Account Api Creds
-key_id = 'PKPO9JOB3HKST3X63XH7'
-secret_key = 'ZlwUUhewRzJLeiF5Qwy6GEfKWftX8YmIX0lYuLCs'
+key_id = ''
+secret_key = '' 
 
 # Initialize the alpaca api
 # Prod Link "https://api.alpaca.markets"
