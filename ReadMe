@@ -1,0 +1,8 @@
+Trading bot example using a few hard-coded stocks
+
+This bot uses the Moving Average Convergence Divergence (MACD) trend-following momentum indicator that shows the relationship between two moving averages of a stock price. 
+Traders use the MACD to identify when bullish or bearish momentum is high in order to identify entry and exit points for trades.
+
+This bot uses Apache Trading Platform's API to submit trades and yahoo finance to check current stock statistics. 
+
+Originally built just for fun, turned into a potential to make money, ran into latency issues when submitting trades. 
